@@ -1,0 +1,10 @@
+POST http://localhost:3000/api-v1/users/signup
+Content-Type: application/json
+
+{
+    "fullName": "Aminu Masiuu",
+    "userName": "vkennell",
+    "email": "vincentmichea10@mail.com",
+    "password": "123457",
+    "confirm_password": "123457"
+}
